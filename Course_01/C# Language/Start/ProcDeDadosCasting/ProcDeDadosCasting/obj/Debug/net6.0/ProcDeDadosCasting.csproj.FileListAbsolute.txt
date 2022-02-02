@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\bin\Debug\net6.0\ProcDeDadosCasting.exe
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\bin\Debug\net6.0\ProcDeDadosCasting.deps.json
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\bin\Debug\net6.0\ProcDeDadosCasting.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\bin\Debug\net6.0\ProcDeDadosCasting.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\bin\Debug\net6.0\ref\ProcDeDadosCasting.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\bin\Debug\net6.0\ProcDeDadosCasting.pdb
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ref\ProcDeDadosCasting.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.pdb
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\ProcDeDadosCasting\ProcDeDadosCasting\obj\Debug\net6.0\ProcDeDadosCasting.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\bin\Debug\net6.0\TiposDeEntradaVariaveis.exe
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\bin\Debug\net6.0\TiposDeEntradaVariaveis.deps.json
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\bin\Debug\net6.0\TiposDeEntradaVariaveis.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\bin\Debug\net6.0\TiposDeEntradaVariaveis.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\bin\Debug\net6.0\ref\TiposDeEntradaVariaveis.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\bin\Debug\net6.0\TiposDeEntradaVariaveis.pdb
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\TiposDeEntradaVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\TiposDeEntradaVariaveis.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\TiposDeEntradaVariaveis.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\TiposDeEntradaVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\TiposDeEntradaVariaveis.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\ref\TiposDeEntradaVariaveis.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\TiposDeEntradaVariaveis.pdb
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\TiposDeEntradaVariaveis\TiposDeEntradaVariaveis\obj\Debug\net6.0\TiposDeEntradaVariaveis.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\bin\Debug\net6.0\primeiro.exe
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\bin\Debug\net6.0\primeiro.deps.json
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\bin\Debug\net6.0\primeiro.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\bin\Debug\net6.0\primeiro.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\bin\Debug\net6.0\ref\primeiro.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\bin\Debug\net6.0\primeiro.pdb
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\ref\primeiro.dll
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.pdb
+C:\Users\miria\OneDrive\Documentos\Coding\Execicios\C#\primeiro\primeiro\obj\Debug\net6.0\primeiro.genruntimeconfig.cache
