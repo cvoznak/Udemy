@@ -1,0 +1,14 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\bin\Debug\net6.0\consumo.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\bin\Debug\net6.0\consumo.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\bin\Debug\net6.0\consumo.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\bin\Debug\net6.0\consumo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\bin\Debug\net6.0\ref\consumo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\bin\Debug\net6.0\consumo.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\consumo.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\consumo.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\consumo.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\consumo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\ref\consumo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\consumo.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\consumo\consumo\obj\Debug\net6.0\consumo.genruntimeconfig.cache

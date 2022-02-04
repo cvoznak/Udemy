@@ -1,0 +1,14 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\troco.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\troco.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\troco.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\bin\Debug\net6.0\troco.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\bin\Debug\net6.0\troco.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\bin\Debug\net6.0\troco.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\bin\Debug\net6.0\troco.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\bin\Debug\net6.0\ref\troco.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\bin\Debug\net6.0\troco.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\troco.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\ref\troco.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\troco.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\troco\troco\obj\Debug\net6.0\troco.genruntimeconfig.cache

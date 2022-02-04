@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\bin\Debug\net6.0\circulo.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\bin\Debug\net6.0\circulo.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\bin\Debug\net6.0\circulo.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\bin\Debug\net6.0\circulo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\bin\Debug\net6.0\ref\circulo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\bin\Debug\net6.0\circulo.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\ref\circulo.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\circulo\circulo\obj\Debug\net6.0\circulo.genruntimeconfig.cache

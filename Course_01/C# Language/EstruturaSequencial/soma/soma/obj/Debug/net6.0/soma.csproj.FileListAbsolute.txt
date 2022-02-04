@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\bin\Debug\net6.0\soma.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\bin\Debug\net6.0\soma.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\bin\Debug\net6.0\soma.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\bin\Debug\net6.0\soma.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\bin\Debug\net6.0\ref\soma.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\bin\Debug\net6.0\soma.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\ref\soma.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\soma\soma\obj\Debug\net6.0\soma.genruntimeconfig.cache

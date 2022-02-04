@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\bin\Debug\net6.0\duracao.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\bin\Debug\net6.0\duracao.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\bin\Debug\net6.0\duracao.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\bin\Debug\net6.0\duracao.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\bin\Debug\net6.0\ref\duracao.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\bin\Debug\net6.0\duracao.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\ref\duracao.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\duracao\duracao\obj\Debug\net6.0\duracao.genruntimeconfig.cache

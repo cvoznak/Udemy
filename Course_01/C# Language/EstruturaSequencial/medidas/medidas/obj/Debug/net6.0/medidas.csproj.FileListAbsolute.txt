@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\bin\Debug\net6.0\medidas.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\bin\Debug\net6.0\medidas.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\bin\Debug\net6.0\medidas.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\bin\Debug\net6.0\medidas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\bin\Debug\net6.0\ref\medidas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\bin\Debug\net6.0\medidas.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\ref\medidas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaSequencial\medidas\medidas\obj\Debug\net6.0\medidas.genruntimeconfig.cache
