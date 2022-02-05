@@ -1,0 +1,14 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\trocoVerificado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\trocoVerificado.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\trocoVerificado.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\trocoVerificado.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\bin\Debug\net6.0\trocoVerificado.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\bin\Debug\net6.0\trocoVerificado.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\bin\Debug\net6.0\trocoVerificado.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\bin\Debug\net6.0\trocoVerificado.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\bin\Debug\net6.0\ref\trocoVerificado.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\bin\Debug\net6.0\trocoVerificado.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\trocoVerificado.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\ref\trocoVerificado.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\trocoVerificado.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\trocoVerificado\trocoVerificado\obj\Debug\net6.0\trocoVerificado.genruntimeconfig.cache

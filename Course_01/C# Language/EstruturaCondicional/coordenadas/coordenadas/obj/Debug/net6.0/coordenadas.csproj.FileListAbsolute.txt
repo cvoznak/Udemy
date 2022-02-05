@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\bin\Debug\net6.0\ref\coordenadas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\ref\coordenadas.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.genruntimeconfig.cache

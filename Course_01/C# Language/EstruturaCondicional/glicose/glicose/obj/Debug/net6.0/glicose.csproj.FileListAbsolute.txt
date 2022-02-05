@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\bin\Debug\net6.0\glicose.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\bin\Debug\net6.0\glicose.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\bin\Debug\net6.0\glicose.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\bin\Debug\net6.0\glicose.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\bin\Debug\net6.0\ref\glicose.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\bin\Debug\net6.0\glicose.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\ref\glicose.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\glicose\glicose\obj\Debug\net6.0\glicose.genruntimeconfig.cache

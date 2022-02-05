@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\bin\Debug\net6.0\baskara.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\bin\Debug\net6.0\baskara.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\bin\Debug\net6.0\baskara.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\bin\Debug\net6.0\baskara.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\bin\Debug\net6.0\ref\baskara.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\bin\Debug\net6.0\baskara.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\ref\baskara.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaCondicional\baskara\baskara\obj\Debug\net6.0\baskara.genruntimeconfig.cache
