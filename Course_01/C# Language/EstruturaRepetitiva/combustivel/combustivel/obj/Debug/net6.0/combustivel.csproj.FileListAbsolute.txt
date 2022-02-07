@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\bin\Debug\net6.0\combustivel.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\bin\Debug\net6.0\combustivel.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\bin\Debug\net6.0\combustivel.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\bin\Debug\net6.0\combustivel.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\bin\Debug\net6.0\ref\combustivel.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\bin\Debug\net6.0\combustivel.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\ref\combustivel.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\combustivel\combustivel\obj\Debug\net6.0\combustivel.genruntimeconfig.cache

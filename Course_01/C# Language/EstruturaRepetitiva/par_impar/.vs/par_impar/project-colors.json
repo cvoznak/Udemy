@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfe18b8e-5231-47bf-aa43-36f84d85f5f0": {
+      "ProjectGuid": "cfe18b8e-5231-47bf-aa43-36f84d85f5f0",
+      "DisplayName": "par_impar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

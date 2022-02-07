@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e20e5e4-33db-4405-afec-56d44ef7cb2a": {
+      "ProjectGuid": "4e20e5e4-33db-4405-afec-56d44ef7cb2a",
+      "DisplayName": "pares_consecutivos",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

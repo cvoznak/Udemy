@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\bin\Debug\net6.0\par_impar.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\bin\Debug\net6.0\par_impar.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\bin\Debug\net6.0\par_impar.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\bin\Debug\net6.0\par_impar.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\bin\Debug\net6.0\ref\par_impar.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\bin\Debug\net6.0\par_impar.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\ref\par_impar.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\par_impar\par_impar\obj\Debug\net6.0\par_impar.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miria\\OneDrive\\Documentos\\Coding\\Execicios\\C#\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj": {}
+    "C:\\Users\\miria\\OneDrive\\Documentos\\GIT\\Udemy\\Course_01\\C# Language\\Start\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miria\\OneDrive\\Documentos\\Coding\\Execicios\\C#\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj": {
+    "C:\\Users\\miria\\OneDrive\\Documentos\\GIT\\Udemy\\Course_01\\C# Language\\Start\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miria\\OneDrive\\Documentos\\Coding\\Execicios\\C#\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
+        "projectUniqueName": "C:\\Users\\miria\\OneDrive\\Documentos\\GIT\\Udemy\\Course_01\\C# Language\\Start\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
         "projectName": "EntradaDeDados",
-        "projectPath": "C:\\Users\\miria\\OneDrive\\Documentos\\Coding\\Execicios\\C#\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
+        "projectPath": "C:\\Users\\miria\\OneDrive\\Documentos\\GIT\\Udemy\\Course_01\\C# Language\\Start\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
         "packagesPath": "C:\\Users\\miria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miria\\OneDrive\\Documentos\\Coding\\Execicios\\C#\\EntradaDeDados\\EntradaDeDados\\obj\\",
+        "outputPath": "C:\\Users\\miria\\OneDrive\\Documentos\\GIT\\Udemy\\Course_01\\C# Language\\Start\\EntradaDeDados\\EntradaDeDados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\bin\Debug\net6.0\negativos.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\bin\Debug\net6.0\negativos.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\bin\Debug\net6.0\negativos.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\bin\Debug\net6.0\negativos.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\bin\Debug\net6.0\ref\negativos.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\bin\Debug\net6.0\negativos.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\ref\negativos.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\negativos\negativos\obj\Debug\net6.0\negativos.genruntimeconfig.cache

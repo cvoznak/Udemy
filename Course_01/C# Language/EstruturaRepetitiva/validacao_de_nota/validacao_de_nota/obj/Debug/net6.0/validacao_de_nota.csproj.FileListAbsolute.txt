@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\bin\Debug\net6.0\validacao_de_nota.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\bin\Debug\net6.0\validacao_de_nota.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\bin\Debug\net6.0\validacao_de_nota.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\bin\Debug\net6.0\validacao_de_nota.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\bin\Debug\net6.0\ref\validacao_de_nota.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\bin\Debug\net6.0\validacao_de_nota.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\ref\validacao_de_nota.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\validacao_de_nota\validacao_de_nota\obj\Debug\net6.0\validacao_de_nota.genruntimeconfig.cache

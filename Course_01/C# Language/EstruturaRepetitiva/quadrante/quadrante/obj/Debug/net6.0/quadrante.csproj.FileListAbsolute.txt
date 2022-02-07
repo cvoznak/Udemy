@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\bin\Debug\net6.0\quadrante.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\bin\Debug\net6.0\quadrante.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\bin\Debug\net6.0\quadrante.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\bin\Debug\net6.0\quadrante.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\bin\Debug\net6.0\ref\quadrante.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\bin\Debug\net6.0\quadrante.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\ref\quadrante.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\quadrante\quadrante\obj\Debug\net6.0\quadrante.genruntimeconfig.cache

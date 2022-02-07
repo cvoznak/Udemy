@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\bin\Debug\net6.0\sequencia_impares.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\bin\Debug\net6.0\sequencia_impares.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\bin\Debug\net6.0\sequencia_impares.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\bin\Debug\net6.0\sequencia_impares.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\bin\Debug\net6.0\ref\sequencia_impares.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\bin\Debug\net6.0\sequencia_impares.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\ref\sequencia_impares.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\sequencia_impares\sequencia_impares\obj\Debug\net6.0\sequencia_impares.genruntimeconfig.cache

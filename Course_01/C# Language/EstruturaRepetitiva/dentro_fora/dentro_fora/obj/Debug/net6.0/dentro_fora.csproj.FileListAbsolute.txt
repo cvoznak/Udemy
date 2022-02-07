@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\bin\Debug\net6.0\ref\dentro_fora.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\ref\dentro_fora.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\EstruturaRepetitiva\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.genruntimeconfig.cache
