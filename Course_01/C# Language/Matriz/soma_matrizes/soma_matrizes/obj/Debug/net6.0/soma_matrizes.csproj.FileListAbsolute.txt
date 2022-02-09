@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\bin\Debug\net6.0\soma_matrizes.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\bin\Debug\net6.0\soma_matrizes.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\bin\Debug\net6.0\soma_matrizes.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\bin\Debug\net6.0\soma_matrizes.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\bin\Debug\net6.0\ref\soma_matrizes.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\bin\Debug\net6.0\soma_matrizes.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\ref\soma_matrizes.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\soma_matrizes\soma_matrizes\obj\Debug\net6.0\soma_matrizes.genruntimeconfig.cache

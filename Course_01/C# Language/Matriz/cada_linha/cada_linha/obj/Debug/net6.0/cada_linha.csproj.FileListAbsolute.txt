@@ -1,0 +1,14 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\bin\Debug\net6.0\cada_linha.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\bin\Debug\net6.0\cada_linha.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\bin\Debug\net6.0\cada_linha.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\bin\Debug\net6.0\cada_linha.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\bin\Debug\net6.0\ref\cada_linha.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\bin\Debug\net6.0\cada_linha.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\cada_linha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\cada_linha.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\cada_linha.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\cada_linha.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\cada_linha.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\ref\cada_linha.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\cada_linha.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\cada_linha\cada_linha\obj\Debug\net6.0\cada_linha.genruntimeconfig.cache

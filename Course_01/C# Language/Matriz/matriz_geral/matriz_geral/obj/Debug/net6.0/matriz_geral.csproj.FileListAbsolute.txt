@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\bin\Debug\net6.0\ref\matriz_geral.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\ref\matriz_geral.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Matriz\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.genruntimeconfig.cache
