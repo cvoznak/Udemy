@@ -1,0 +1,15 @@
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\bin\Debug\net6.0\aprovados.exe
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\bin\Debug\net6.0\aprovados.deps.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\bin\Debug\net6.0\aprovados.runtimeconfig.json
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\bin\Debug\net6.0\aprovados.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\bin\Debug\net6.0\ref\aprovados.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\bin\Debug\net6.0\aprovados.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.csproj.AssemblyReference.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.AssemblyInfo.cs
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.csproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\ref\aprovados.dll
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.pdb
+C:\Users\miria\OneDrive\Documentos\GIT\Udemy\Course_01\C# Language\Vetores\aprovados\aprovados\obj\Debug\net6.0\aprovados.genruntimeconfig.cache
